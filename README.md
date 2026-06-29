@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎣 Pesca Fácil
 
 ## 📖 Sobre o projeto
