@@ -11,6 +11,7 @@ A aplicação simula uma loja virtual de artigos de pesca, exibindo produtos em 
 ## 🚀 Tecnologias utilizadas
 
 * HTML5
+* css
 * JavaScript (ES6)
 * Fetch API
 * Tailwind CSS (via CDN)
@@ -58,7 +59,7 @@ Durante o desenvolvimento foram adotadas algumas decisões para manter o projeto
 * Utilização apenas de HTML, JavaScript e Tailwind CSS.
 * Consumo da API utilizando **fetch()**.
 * Manipulação do DOM com JavaScript puro.
-* Código dividido em arquivos separados (`index.html` e `script.js`) para facilitar a organização.
+* Código dividido em arquivos separados (`index.html`, `script.js` e `style.css`) para facilitar a organização.
 * Interface responsiva utilizando apenas classes do Tailwind CSS.
 * Estrutura simples para facilitar a compreensão e manutenção.
 
