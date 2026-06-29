@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pesca Fácil</title>
+  <!-- Tailwind CSS via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
+
+  <!-- Cabeçalho -->
+  <header
+class="text-white p-10 shadow bg-cover bg-center"
+style="background-image:url('https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1600');">
+
+    <div class="bg-black/40 p-6 rounded-lg">
+        <h1 class="text-4xl font-bold text-center">🎣 Pesca Fácil</h1>
+        <p class="text-center mt-2 text-lg">
+            Tudo para sua próxima pescaria.
+        </p>
+    </div>
+
+</header>
+
+  <!-- Conteúdo principal -->
+  <main class="flex-grow max-w-6xl mx-auto p-6 w-full">
+    <p class="text-center text-lg mb-6">
+      Bem-vindo à Pesca Fácil! Clique no botão abaixo para ver nossos produtos disponíveis.
+    </p>
+
+    <div class="text-center mb-8">
+      <button id="btn-carregar" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded shadow">
+        Carregar Produtos
+      </button>
+    </div>
+
+    <!-- Mensagem de status -->
+    <p id="status" class="text-center text-slate-600 mb-6"></p>
+
+    <!-- Área de produtos -->
+    <div id="produtos" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="bg-slate-200 text-slate-600 p-4 text-center text-sm">
+    Pesca Fácil &copy; 2024 — Projeto educacional
+  </footer>
+
+  <!-- Script principal -->
+  <script src="script.js"></script>
+</body>
+</html>
