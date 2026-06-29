@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎣 Pesca Fácil
 
 ## 📖 Sobre o projeto
@@ -92,3 +93,7 @@ Este projeto foi desenvolvido com fins exclusivamente acadêmicos para demonstra
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por **Eliabe Rafael Oliveira Silva** como atividade da disciplina de Desenvolvimento Web.
+=======
+# projeto-web-consumindo-api
+projeto da disciplina de WEB 3° período
+>>>>>>> f2a7203b3e17742d3232120ea59905338f61ea64
