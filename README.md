@@ -28,19 +28,6 @@ A API foi escolhida por ser gratuita, pública e não exigir autenticação (tok
 
 ---
 
-## 📁 Estrutura do projeto
-
-```text
-pesca-facil/
-│
-├── index.html
-├── script.js
-├── README.md
-└── assets/
-```
-
----
-
 ## ▶️ Como executar
 
 1. Faça o download ou clone este repositório.
@@ -96,4 +83,3 @@ Projeto desenvolvido por **Eliabe Rafael Oliveira Silva** como atividade da disc
 =======
 # projeto-web-consumindo-api
 projeto da disciplina de WEB 3° período
->>>>>>> f2a7203b3e17742d3232120ea59905338f61ea64
